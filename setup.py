@@ -9,9 +9,9 @@ def readme():
 setup(name='brad_nlp_helpers',
       version='0.1.1',
       description='Python based packages for NLP EDA',
-      url='www.bradaallen.com',
+      url='https://github.com/bradaallen/nlp_helper',
       author='Brad Allen',
-      author_email='allen.brad@bcg.com',
+      author_email='bradaallen@gmail.com',
       license='MIT',
       install_requires=[
           'pandas',
